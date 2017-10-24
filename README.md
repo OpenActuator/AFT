@@ -1,2 +1,2 @@
-# OpenActuatorTester
+# OpenTester
 Open Source Tester for Actutors
