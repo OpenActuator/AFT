@@ -1,5 +1,5 @@
-#define   STROKE_PIN    A0
-#define   CURRENT_PIN   A3
+#define   CURRENT_PIN   A0
+#define   STROKE_PIN    A3
 #define   FORCE_PIN     A6
 
 void setup()
@@ -28,7 +28,6 @@ String makeLength(int data, int len)
   return strReturn;
 }
 
-
 void loop() 
 {
   byte btReceiveByte;
@@ -47,19 +46,22 @@ void loop()
         break;      
       
       case 'r':
-        // Stroke
-        strTransmittData = "t";
-        strTransmittData = strTransmittData +  makeLength(analogRead(STROKE_PIN), 4);
-        Serial.print(strTransmittData);
-
         // Current    
         strTransmittData = "c";
         strTransmittData = strTransmittData +  makeLength(analogRead(CURRENT_PIN), 4);
         Serial.print(strTransmittData);
         
+        // Stroke
+        strTransmittData = "t";
+        strTransmittData = strTransmittData +  makeLength(analogRead(STROKE_PIN), 4);
+        Serial.print(strTransmittData);
+
         // Force
         strTransmittData = "f";
         strTransmittData = strTransmittData +  makeLength(analogRead(FORCE_PIN), 4);
+        Serial.print(strTransmittData);
+
+        strTransmittData = "e";
         Serial.print(strTransmittData);
         break;
 
