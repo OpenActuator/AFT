@@ -1,7 +1,7 @@
 # AFT (Ver 0.9.5)
 This program is an open source program for Actuator Function Tester.
 
-Youtube Video : https://youtu.be/csqQ6w9cZMM
+Youtube Video : https://youtu.be/_ul7hxZ4i8M
 <br><br>
 Detail Information : http://openactuator.org
 <br><br>
