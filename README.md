@@ -6,7 +6,7 @@ Detail Information : http://openactuator.org
 
 <b>1. AFT for DIY Tester </b>
 
-Youtube Video : https://youtu.be/k9zm432pFfI
+Youtube Video : https://youtu.be/hzTn-njz7Fk
 
 <img src="http://www.solenoid.or.kr/data/DIY_Tester.jpg" border="0" alt="">
 
