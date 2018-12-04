@@ -1,4 +1,4 @@
-# OpenAFT (Ver 1.0.0)
+# OpenAFT (Ver 1.0)
 This program is an open source program for Actuator Function Tester.
 
 Detail Information : http://openactuator.org
