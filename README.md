@@ -1,8 +1,7 @@
 # OpenAFT (Ver 1.0)
-This program is an open source program for Actuator Function Tester.
+This program is an open source program for Actuator Function Tester.<br>
 
-
-1. Detail Information
+<b>1. Detail Information</b>
  - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/open_AFT_eng.htm">Actuator Function Tester Homepage Link (English)</a>
  - Korean  : <a href="https://solenoid.or.kr/direct_kor.php?address=https://solenoid.or.kr/openactuator/open_AFT_kor.htm">Actuator Function Tester Homepage Link (Korean)</a>
 
