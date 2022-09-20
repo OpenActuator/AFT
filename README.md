@@ -11,7 +11,6 @@ Youtube Video : https://youtu.be/hzTn-njz7Fk
 
 <img src="http://www.solenoid.or.kr/openactuator/OpenAFT/DIY_Tester.jpg" border="0" alt="">
 
-
 <b>3. OpenAFT for High Precision Tester </b>
 
 Youtube Video : https://youtu.be/_ul7hxZ4i8M
